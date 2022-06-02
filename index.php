@@ -36,7 +36,7 @@
 </div>
 
     <footer>
-        2022
+    © 2022 Nike, Inc. Alle rechten voorbehouden aan Nike
     </footer>
 
 </body>

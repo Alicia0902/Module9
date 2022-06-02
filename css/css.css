@@ -1,0 +1,32 @@
+ul {
+    background-color: #EA526F;
+    font-size: larger;
+}
+
+
+footer {
+    background-color: #EA526F;
+    position: relative;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+
+/* pagina */
+h1{
+    background-color: #EA526F;
+    font-size: xx-large;
+    width: 1000px;
+    height: 60px;
+    color: black;
+}  
+
+body {
+    font-family:sans-serif;
+}
